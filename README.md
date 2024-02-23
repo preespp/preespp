@@ -2,7 +2,7 @@
 - 👀 I’m interested in IoT, Embedded Systems, Microcontrollers, Robotics, Smart Devices
 - 🌱 I’m currently studying Computer Engineering with minor in Mechanical Engineering at Boston University
 - 💞️ I’m looking to collaborate on Engineering projects that I can mainly contribute to software part (but also open to help with fabrication process)
-- 📫 How to reach me: prees26@bu.edu / Linkedin: Pree Simphliphan
+- 📫 How to reach me: prees26@bu.edu / Linkedin: [Pree Simphliphan](https://www.linkedin.com/in/pree-simphliphan/)]
 - 😄 Pronouns: He/Him
 
 <!---
