@@ -1,9 +1,10 @@
 <h1 align="center"> Pree Simphliphan </h1>
-<h3 align="center"> Robotics | Embedded Systems | Software Development</h3>
+<h3 align="center"> Robotics | Autonomus Vehicles </h3>
+<h3 align="center"> Embedded Systems | Software Development </h3>
 
 - 👋 Hi, I’m Pree Simphliphan from Nonthaburi, Thailand currently based in Boston, MA
 - 🌱 I’m currently studying Computer Engineering with minor in Mechanical Engineering, concentration in Robotics at Boston University (Junior)
-- 💞️ I’m looking to collaborate on Engineering projects on the sector of intersection between hardware and software (firmware development) or 100% software development (I focus on backend, ML or Networking)
+- 💞️ I’m looking to collaborate on Engineering projects on the sector of intersection between hardware and software (firmware development) or 100% software development (I focus on backend)
 - 📫 How to reach me: prees26@bu.edu / Linkedin: [Pree Simphliphan](https://www.linkedin.com/in/pree-simphliphan/)
 - 😄 Pronouns: He/Him
 
