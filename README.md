@@ -1,5 +1,5 @@
 <h1 align="center"> Pree Simphliphan </h1>
-<h3 align="center"> Robotics | Autonomus Vehicles </h3>
+<h3 align="center"> Robotics | Autonomous Vehicles </h3>
 <h3 align="center"> Embedded Systems | Software Development </h3>
 
 - 👋 Hi, I’m Pree Simphliphan from Nonthaburi, Thailand currently based in Boston, MA
