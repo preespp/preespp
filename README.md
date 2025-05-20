@@ -3,8 +3,8 @@
 <h3 align="center"> Embedded Systems | Software Development </h3>
 
 - 👋 Hi, I’m Pree Simphliphan from Nonthaburi, Thailand currently based in Boston, MA
-- 🌱 I’m currently studying Computer Engineering with minor in Mechanical Engineering, concentration in Robotics at Boston University (Junior)
-- 💞️ I’m looking to collaborate on Engineering projects on the sector of intersection between hardware and software (firmware development) or 100% software development (I focus on backend)
+- 🌱 I’m currently studying Computer Engineering with minor in Mechanical Engineering, concentration in Robotics at Boston University (Senior)
+- 💞️ I’m looking to collaborate on Engineering solutions on the intersection between software and hardware (not only computer, but also product design aspect with CAD and Electromechanical Design) or firmware development
 - 📫 How to reach me: prees26@bu.edu / Linkedin: [Pree Simphliphan](https://www.linkedin.com/in/pree-simphliphan/)
 - 😄 Pronouns: He/Him
 
