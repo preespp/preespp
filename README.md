@@ -1,4 +1,4 @@
-<h1 align="center"> Pree Simphliphan </h1>
+<h1 align="center"> PREE SIMPHLIPHAN </h1>
 <h3 align="center"> Robotics | Autonomous Vehicles </h3>
 <h3 align="center"> Embedded Systems | Software Development </h3>
 
@@ -11,7 +11,7 @@ Fall 2025 Coursework: Operating Systems, Cloud Computing and Senior Design
 
 Past Coursework in ECE: Machine Learning, Embedded Systems, Smart & Connected Systems, Computer Networking, Applied Algorithms and Data Structures, Software Engineering, Computer Organization, Digital Logic Design, Computer Programming for Engineers, Python for Engineer & Data Science and Electric Circuits
 
-Past Coursework Outside CE: Robotics, Mechanics (Statics), Mechanics II (Dynamics & Kinematics), Engineering Hands-on, Engineering Designs, Supply Chain Engineering, Probability, Statistics & Data Science, Differential Equations, Multivariate Calculus, Discrete Mathematics for Engineers, Physics II, Macroeconomics and Microeconomics
+Past Coursework Outside ECE: Robotics, Mechanics (Statics), Mechanics II (Dynamics & Kinematics), Engineering Hands-on, Engineering Designs, Supply Chain Engineering, Probability, Statistics & Data Science, Differential Equations, Multivariate Calculus, Discrete Mathematics for Engineers, Physics II, Macroeconomics and Microeconomics
 
 ## Programming Languages
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
