@@ -6,13 +6,14 @@
 - 🌱 I’m currently studying Computer Engineering with minor in Mechanical Engineering, concentration in Robotics at Boston University (Senior)
 - 📫 How to reach me: prees26@bu.edu / Linkedin: [Pree Simphliphan](https://www.linkedin.com/in/pree-simphliphan/)
 - 😄 Pronouns: He/Him
+- 🔑 Languages: Thai, English
 - 💼 Open to relocate to different countries or cities to challenge new experience
 
 Fall 2025 Coursework: Operating Systems, Cloud Computing and Senior Design
 
 Past Coursework in ECE: Machine Learning, Embedded Systems, Smart & Connected Systems, Computer Networking, Applied Algorithms and Data Structures, Software Engineering (C++), Computer Organization, Digital Logic Design, Computer Programming for Engineers (C), Python for Engineer & Data Science and Electric Circuits
 
-Past Coursework Outside ECE: Robotics, Mechanics (Statics), Mechanics II (Dynamics & Kinematics), Engineering Hands-on, Engineering Designs, Supply Chain Engineering, Probability, Statistics & Data Science, Differential Equations, Multivariate Calculus, Discrete Mathematics for Engineers, Physics II, Macroeconomics and Microeconomics
+Past Coursework Outside ECE: Robotics, Mechanics (Statics), Mechanics II (Dynamics & Kinematics), Engineering Hands-on, Engineering Designs, Supply Chain Engineering, Probability, Statistics & Data Science, Differential Equations, Multivariate Calculus, Discrete Mathematics for Engineers, Symbolic Logic, Physics II, Macroeconomics and Microeconomics
 
 ## Programming Languages
 [![Programming Skills](https://skillicons.dev/icons?i=python,c,cs,cpp,html,css,js,matlab,latex&perline=10)](https://skillicons.dev)
