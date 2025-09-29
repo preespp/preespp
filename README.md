@@ -25,7 +25,7 @@ Past Coursework Outside ECE: Robotics, Mechanics (Statics), Mechanics II (Dynami
 [![OS](https://skillicons.dev/icons?i=linux,ubuntu,windows,kali,bash,arduino,raspberrypi)](https://skillicons.dev)
 
 <img src="https://img.shields.io/badge/BeagleBoard-A9A9A9?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/> <img src="https://img.shields.io/badge/FreeRTOS-2C2C2C?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/> <img src="https://img.shields.io/badge/TCP%2FIP-0078D7?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/UDP-004880?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/NFC-009688?style=for-the-badge&logoColor=white"/> 
-<p>NVIDIA Jetson Nano & AGX</p>
+<p>NVIDIA Jetson Nano & AGX, Libre Computer Board</p>
 
 ## Framework
 [![Framework](https://skillicons.dev/icons?i=ros,sklearn,nodejs,opencv,pytorch,selenium,flask,electron,react,bootstrap,dotnet)](https://skillicons.dev)
