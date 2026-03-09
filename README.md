@@ -31,7 +31,7 @@ Past Coursework Outside ECE: Robotics, Mechanics (Statics), Mechanics II (Dynami
 [![Framework](https://skillicons.dev/icons?i=ros,sklearn,nodejs,opencv,pytorch,selenium,flask,electron,react,bootstrap,dotnet)](https://skillicons.dev)
 
 ## Databases/Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,cmake,docker,kubernetes,anaconda,mongodb,mysql,firebase,aws,gcp,emacs,vim,vscode,postman)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,cmake,docker,kubernetes,anaconda,mongodb,mysql,firebase,aws,gcp,postgres,emacs,vim,vscode,postman,prometheus)](https://skillicons.dev)
 
 <img src="https://img.shields.io/badge/Vivado-FF6F00?style=for-the-badge&logo=xilinx&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
 
