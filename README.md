@@ -9,9 +9,9 @@
 - 🔑 Languages: Thai, English
 - 💼 Open to relocate to different countries or cities to challenge new experience
 
-Fall 2025 Coursework: Operating Systems, Cloud Computing and Senior Design
+Spring 2026 Coursework: Control Systems, Energy & Thermodynamics, Japanese I, Senior Design
 
-Past Coursework in ECE: Machine Learning, Embedded Systems, Smart & Connected Systems, Computer Networking, Applied Algorithms and Data Structures, Software Engineering (C++), Computer Organization, Digital Logic Design, Computer Programming for Engineers (C), Python for Engineer & Data Science and Electric Circuits
+Past Coursework in ECE: Operating Systems, Cloud Computing, Machine Learning, Embedded Systems, Smart & Connected Systems, Computer Networking, Applied Algorithms and Data Structures, Software Engineering (C++), Computer Organization, Digital Logic Design, Computer Programming for Engineers (C), Python for Engineer & Data Science and Electric Circuits
 
 Past Coursework Outside ECE: Robotics, Mechanics (Statics), Mechanics II (Dynamics & Kinematics), Engineering Hands-on, Engineering Designs, Supply Chain Engineering, Probability, Statistics & Data Science, Differential Equations, Multivariate Calculus, Discrete Mathematics for Engineers, Symbolic Logic, Physics II, Macroeconomics and Microeconomics
 
