@@ -1,19 +1,17 @@
 <h1 align="center"> PREE SIMPHLIPHAN </h1>
-<h3 align="center"> Robotics | Autonomous Vehicles </h3>
-<h3 align="center"> Embedded Systems | Software Development | Hardware Integration</h3>
+<h3 align="center"> Robotics | Autonomous Vehicles | Control Systems </h3>
+<h3 align="center"> Embedded Systems | Software Development | System Integration & Deployments </h3>
 
-- 👋 Hi, I’m Pree Simphliphan from Nonthaburi, Thailand currently based in Boston, MA
-- 🌱 I’m currently studying Computer Engineering with minor in Mechanical Engineering, concentration in Robotics at Boston University (Senior)
-- 📫 How to reach me: prees26@bu.edu / Linkedin: [Pree Simphliphan](https://www.linkedin.com/in/pree-simphliphan/)
+- 👋 Hi, I’m Pree Simphliphan from Nonthaburi, Thailand currently based in Cambridge, MA
+- 🌱 I’m a recent graduate in Computer Engineering with minor in Mechanical Engineering, concentration in Robotics at Boston University (Magna Cum Laude). I will be a Master in Engineering candidate in Mechanical Engineering with a concentraion in Control of Robotics and Autonomous Systems at UC Berkeley in Fall 2026.
+- 📫 How to reach me: prees26@bu.edu / [Linkedin](https://www.linkedin.com/in/pree-simphliphan/) / [Portfolio](https://preespp.github.io)
 - 😄 Pronouns: He/Him
-- 🔑 Languages: Thai, English
-- 💼 Open to relocate to different countries or cities to challenge new experience
+- 🔑 Languages: Thai, English, Japanese (Beginner)
+- 💼 Open to relocate to other states in U.S.A. or other regions in Southeast Asia, East Asia or Europe.
 
-Spring 2026 Coursework: Control Systems, Energy & Thermodynamics, Japanese I, Senior Design
+Past Coursework in ECE: Senior Design, Control Systems, Operating Systems, Cloud Computing, Machine Learning, Embedded Systems, Smart & Connected Systems, Computer Networking, Applied Algorithms and Data Structures, Software Engineering (C++), Computer Organization, Digital Logic Design, Computer Programming for Engineers (C), Python for Engineer & Data Science and Electric Circuits
 
-Past Coursework in ECE: Operating Systems, Cloud Computing, Machine Learning, Embedded Systems, Smart & Connected Systems, Computer Networking, Applied Algorithms and Data Structures, Software Engineering (C++), Computer Organization, Digital Logic Design, Computer Programming for Engineers (C), Python for Engineer & Data Science and Electric Circuits
-
-Past Coursework Outside ECE: Robotics, Mechanics (Statics), Mechanics II (Dynamics & Kinematics), Engineering Hands-on, Engineering Designs, Supply Chain Engineering, Probability, Statistics & Data Science, Differential Equations, Multivariate Calculus, Discrete Mathematics for Engineers, Symbolic Logic, Physics II, Macroeconomics and Microeconomics
+Past Coursework Outside ECE: Robotics, Mechanics (Statics), Mechanics II (Dynamics & Kinematics), Engineering Hands-on, Engineering Designs, Energy & Thermodynamics, Supply Chain Engineering, Probability, Statistics & Data Science, Differential Equations, Multivariate Calculus, Discrete Mathematics for Engineers, Symbolic Logic, Physics II, Macroeconomics and Microeconomics, Japanese I
 
 ## Programming Languages
 [![Programming Skills](https://skillicons.dev/icons?i=python,c,cs,cpp,html,css,js,matlab,latex&perline=10)](https://skillicons.dev)
