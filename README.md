@@ -1,6 +1,6 @@
 <h1 align="center"> PREE SIMPHLIPHAN </h1>
 <h3 align="center"> Robotics | Autonomous Vehicles | Control Systems </h3>
-<h3 align="center"> Embedded Systems | Software Development | System Integration & Deployments </h3>
+<h3 align="center"> Embedded Systems | Software Development | System Integration & Deployments | Mechanical Engineering </h3>
 
 - 👋 Hi, I’m Pree Simphliphan from Nonthaburi, Thailand currently based in San Francisco Bay area
 - 🌱 I’m a recent graduate in Computer Engineering with minor in Mechanical Engineering, concentration in Robotics at Boston University (Magna Cum Laude). I will be a Master in Engineering candidate in Mechanical Engineering with a concentraion in Control of Robotics and Autonomous Systems at UC Berkeley in Fall 2026.
@@ -9,7 +9,7 @@
 - 🔑 Languages: Thai, English, Japanese (Beginner)
 - 💼 Open to relocate to other states in USA or other regions in Southeast Asia, East Asia or Europe.
 
-Current ME Coursework at UC Berkeley: Experiential Advanced Control Design I and Dynamics and Control of Autonomous Flight
+Current ME Coursework at UC Berkeley: Experiential Advanced Control Design I, Dynamics and Control of Autonomous Flight, Design of Microprocessor-Based Mechanical Systems, and Advanced Product Development
 
 Past Coursework in ECE at BU: Senior Design, Control Systems, Operating Systems, Cloud Computing, Machine Learning, Embedded Systems, Smart & Connected Systems, Computer Networking, Applied Algorithms and Data Structures, Software Engineering (C++), Computer Organization, Digital Logic Design, Computer Programming for Engineers (C), Python for Engineer & Data Science and Electric Circuits
 
