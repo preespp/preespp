@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Pree Simphliphan from Nonthaburi, Thailand currently based in San Francisco Bay area
 - 🌱 I’m a recent graduate in Computer Engineering with minor in Mechanical Engineering, concentration in Robotics at Boston University (Magna Cum Laude). I will be a Master in Engineering candidate in Mechanical Engineering with a concentraion in Control of Robotics and Autonomous Systems at UC Berkeley in Fall 2026.
-- 📫 How to reach me: prees26@bu.edu / [Linkedin](https://www.linkedin.com/in/pree-simphliphan/) / [Portfolio](https://preespp.github.io)
+- 📫 How to reach me: preed2027@berkeley.edu / [Linkedin](https://www.linkedin.com/in/pree-d/) / [Portfolio](https://preespp.github.io)
 - 😄 Pronouns: He/Him
 - 🔑 Languages: Thai, English, Japanese (Beginner)
 - 💼 Open to relocate to other states in USA or other regions in Southeast Asia, East Asia or Europe.
