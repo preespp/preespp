@@ -2,16 +2,16 @@
 <h3 align="center"> Robotics | Autonomous Vehicles | Control Systems </h3>
 <h3 align="center"> Embedded Systems | Software Development | System Integration & Deployments | Mechanical Engineering </h3>
 
-- 👋 Hi, I’m Pree Simphliphan from Nonthaburi, Thailand currently based in San Francisco Bay area
-- 🌱 I’m a recent graduate in Computer Engineering with minor in Mechanical Engineering, concentration in Robotics at Boston University (Magna Cum Laude). I will be a Master in Engineering candidate in Mechanical Engineering with a concentraion in Control of Robotics and Autonomous Systems at UC Berkeley in Fall 2026.
+- 👋 Hi, I’m Pree Simphliphan from Nonthaburi, Thailand, currently based in the San Francisco Bay Area
+- 🌱 I am a Master of Engineering candidate in Mechanical Engineering with a concentration in Control of Robotics and Autonomous Systems at UC Berkeley. I recently graduated in Computer Engineering with a minor in Mechanical Engineering, concentration in Robotics at Boston University (Magna Cum Laude).
 - 📫 How to reach me: preed2027@berkeley.edu / [Linkedin](https://www.linkedin.com/in/pree-d/) / [Portfolio](https://preespp.github.io)
 - 😄 Pronouns: He/Him
 - 🔑 Languages: Thai, English, Japanese (Beginner)
-- 💼 Open to relocate to other states in USA or other regions in Southeast Asia, East Asia or Europe.
+- 💼 Open to relocating to other states in the USA or other regions in Southeast Asia, East Asia, or Europe.
 
 Current ME Coursework at UC Berkeley: Experiential Advanced Control Design I, Dynamics and Control of Autonomous Flight, Design of Microprocessor-Based Mechanical Systems, and Advanced Product Development
 
-Past Coursework in ECE at BU: Senior Design, Control Systems, Operating Systems, Cloud Computing, Machine Learning, Embedded Systems, Smart & Connected Systems, Computer Networking, Applied Algorithms and Data Structures, Software Engineering (C++), Computer Organization, Digital Logic Design, Computer Programming for Engineers (C), Python for Engineer & Data Science and Electric Circuits
+Past Coursework in ECE at BU: Senior Design, Control Systems, Operating Systems, Cloud Computing, Machine Learning, Embedded Systems, Smart & Connected Systems, Computer Networking, Applied Algorithms and Data Structures, Software Engineering (C++), Computer Organization, Digital Logic Design, Computer Programming for Engineers (C), Python for Engineers & Data Science, and Electric Circuits
 
 Past Coursework Outside ECE at BU: Robotics, Mechanics (Statics), Mechanics II (Dynamics & Kinematics), Engineering Hands-on, Engineering Designs, Energy & Thermodynamics, Supply Chain Engineering, Probability, Statistics & Data Science, Differential Equations, Multivariate Calculus, Discrete Mathematics for Engineers, Symbolic Logic, Physics II, Macroeconomics and Microeconomics, Japanese I
 
